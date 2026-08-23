@@ -1,0 +1,15 @@
+﻿# Build
+build/
+out/
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+bin/
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
+
+CMakeLists.txt
